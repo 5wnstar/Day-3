@@ -2,6 +2,9 @@
 30 Days of codding 
 
 
+Day 3 Web Application Mapping 
+
+
 
 
 We begin by defining the remote target website and the local directory into which we have downloaded and extracted the web application. 
